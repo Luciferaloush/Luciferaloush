@@ -1,5 +1,5 @@
 
-# 👋 Hi there, I'm Ali Hussein Habib (Luciferaloush)
+# 👋 Hi there, I'm Ali Hussein Habib 
 
 🎯 A passionate Flutter and Node.js developer from Syria, focused on building high-quality mobile and backend applications.
 💻 Currently open for remote work opportunities.
